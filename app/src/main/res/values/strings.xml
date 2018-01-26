@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">music home</string>
+    <string name="play_music">play</string>
+    <string name="pause_music">pause</string>
+    <string name="con_music">continue</string>
+    <string name="et_input_path">input path:</string>
+    <string name="bt_select">select</string>
+</resources>
